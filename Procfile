@@ -1,1 +1,1 @@
-echo "web: python app:app"
+echo "web: python main:main"
