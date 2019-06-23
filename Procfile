@@ -1,1 +1,1 @@
-worker: python main.py $PORT
+echo "web: python app:app"
