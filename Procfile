@@ -1,1 +1,1 @@
-echo "web: python main:main"
+web: python main.py runserver 0.0.0.0:5000
