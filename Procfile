@@ -1,1 +1,1 @@
-heroku ps:scale worker=1
+web: python main.py runserver 0.0.0.0:5000
